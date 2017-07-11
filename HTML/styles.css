@@ -1,0 +1,21 @@
+body{background-color: red}
+        #head{background-color: white;
+              color: red;
+                  text-align:center;}
+
+
+#footer{text-align: right;
+color: white;
+clear: both;}
+
+#structure{background-color: black;
+margin-left: auto;margin-right: auto;width: 1000px;}
+          #services{float: left;width: 200px;}
+          #about{float:right; width: 500px;}
+              #contactus{clear: both;}
+h2 {font-size: 75px}
+h2 {font-family: monospace;}
+p {font-size:40px}
+ol {font-size: 25px}
+ol {font-family: cursive;}
+ul {font-size: 30px}
