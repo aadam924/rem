@@ -1,0 +1,22 @@
+body{background-color: red}
+#head{background-color: white;
+color: red;
+text-align:center;}
+#footer{text-align: right;
+color: white;
+clear: both;}
+#structure{background-color: black;
+margin-left: auto;margin-right: auto;width: 1000px;}
+#services{float: left;width: 200px;}
+#about{float:right; width: 500px;}
+#contactus{clear: both;}
+h2 {font-size: 75px; font-family: monospace;}
+ol {font-size: 25px;
+font-family: sans-serif;}
+ul {font-size: 30px}
+p {font-size: 25px
+}
+h2, h3
+.white-text {
+color: white;
+}
